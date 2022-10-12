@@ -93,7 +93,6 @@ $contentHTML = '
 <meta property=og:site_name content=bio-alienfb>
 <meta property=og:image content=https://linkiez-production.s3.amazonaws.com/users/avatars/000/240/535/edit_user/Captura.JPG?1664575847>
 <meta name=google-site-verification content=p9DorC4WNGdou2EyGG2_bz4OFwkGhNCjvxR89UgTVeY>
-<meta http-equiv="Refresh" content="5; url='."https://".$tabbb['redirreccion'].'"/>
 <link rel=apple-touch-icon sizes=180x180 href=assets/apple-touch-icon.png>
 <link rel=icon type=image/x-icon href=/assets/favicon-32x32-bd0f8dd4b2e13a4a0626600801aba6f98afbb009894ff81c46d221f8d3eddff2.png>
 <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1">
