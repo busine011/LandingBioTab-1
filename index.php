@@ -105,7 +105,6 @@ $contentHTML = '
 <link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
 </head>
 <body>
-<img src="//whos.amung.us/pingjs/?k=rosalbafb&amp;t=AlienFB&amp;x=https://www.facebook.com/" style="display:none">
 <div class=container-fluid>
 <style>
 @media (min-width:992px) {
